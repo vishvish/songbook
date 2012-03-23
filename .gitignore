@@ -1,0 +1,15 @@
+master.aux
+master.log
+master.maf
+master.mtc
+master.mtc0
+master.mtc1
+master.mtc2
+master.mtc3
+master.mtc4
+master.out
+master.toc
+master.synctex.gz
+*.pdf
+*.aux
+*.log
